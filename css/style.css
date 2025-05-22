@@ -1,0 +1,14 @@
+*{
+    background: lightsalmon;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+
+}
+
+#footer{
+    background: blue;
+    color: white;
+}
